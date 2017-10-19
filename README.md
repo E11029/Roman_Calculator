@@ -5,7 +5,7 @@ Date :19/10/2017
 
 Technologies
 ------------
-Node.js \n
+Node.js <br>
 React.js \n
 
 Frontend service start
